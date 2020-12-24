@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex3</string>
+    <string-array name="state">
+        <item>Andhra Pradesh</item>
+        <item>Telenaga</item>
+        <item>Maharastra</item>
+        <item>Karnataka</item>
+    </string-array>
+</resources>
